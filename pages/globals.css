@@ -437,6 +437,8 @@ span.text-red {
 
 .selected-image {
   background-color: #f02d34;
+  transition: all 0.3s ease-in-out;
+  transform: scale(1.1);
 }
 .reviews {
   color: #f02d34;
